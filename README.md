@@ -2,7 +2,7 @@
 <h3 align="center">Um futuro Cientista de Dados</h3>
 
 
-Estou atualmente cursando Ciência da Computação, no Centro Universitário Senac. No 6° semestre!
+Estou atualmente cursando Ciência da Computação, no Centro Universitário Senac. No 7° semestre!
 Meu objetivo atual é me tornar um Cientista de Dados, e estou trabalhando duro para isso!
 Em meu Github você pode encontrar diversos projetos no qual estou desenvolvendo.
 Sou uma pessoa muito dedicada e focada em meus objetivos, gosto de trabalhar em equipe e estou a procura de oportunidades de ingressar no mercado como Cientista de Dados Jr.
